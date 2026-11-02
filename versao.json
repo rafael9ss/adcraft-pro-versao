@@ -1,11 +1,12 @@
 {
-  "versao": "1.2.0",
+  "versao": "1.3.0",
   "novidades": [
-    "Diagnóstico com conserto automático e relatório para o suporte.",
-    "Voz gerada: ElevenLabs (com a sua chave) ou Edge TTS grátis, com amostras para escolher.",
-    "Zona segura do Reels/TikTok conferida em toda prévia.",
-    "Entrega com nome ADS VIDEO N e ganchos ADS VIDEO N - G1; sugestão de textos para o Meta Ads.",
-    "Aviso de versão nova e instalação da atualização pelo zip."
+    "Voz pela MiniMax (com a sua chave), além de ElevenLabs e Edge TTS; a instalação pergunta quais você tem.",
+    "Avatar gerado pela HeyGen a partir da copy, com os créditos do seu plano (MCP oficial, sem chave).",
+    "Pilar avatar: elemento ao lado do rosto (número, palavra-chave) além do B-roll em tela cheia, com tempo por elemento.",
+    "Limpeza da gravação bruta: tira pausas longas, \"é...\", \"hum\" e gaguejo, mantendo a legenda no tempo.",
+    "Checagem de entrega no vídeo final: formato, codec, volume e upload rápido para Meta e TikTok.",
+    "Estilo novo: Caption News (legenda gigante com palavra-chave amarela, prova com marca-texto)."
   ],
   "onde_baixar": "na área de membros"
 }
